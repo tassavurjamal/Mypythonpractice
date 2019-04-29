@@ -1,0 +1,16 @@
+#wat is happening on my git repo
+
+git status
+
+# To clone a repo
+git clone {reponame}
+
+#to add the files
+1. All file - git add -A
+2. Specific file - git add {file name}
+
+#git commit -m
+before push we have to write message
+
+#to push the code or any file
+git push ---- requires username and password.
